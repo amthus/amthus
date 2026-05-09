@@ -12,7 +12,7 @@ I am passionate about building impactful software solutions, learning independen
 
 ### 📬 Contact Me:
 - 📧 Email: [ametepemalthus16@gmail.com](mailto:ametepemalthus16@gmail.com)  
-- 🖥️ Portfolio: [https://amthus.github.io/AmthusDevUI/](https://amthus.github.io/AmthusDevUI/)
+- 🖥️ Portfolio: [https://ametepemalthus.vercel.app/](https://ametepemalthus.vercel.app/)
 
 ---
 
